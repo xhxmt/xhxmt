@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xmt
 - 👀 I’m interested in ai
 - 🌱 I’m currently learning chemistry
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ai in chem
 - 📫 How to reach me xmt31@outlook.com
 
 <!---
